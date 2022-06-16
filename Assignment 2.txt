@@ -1,0 +1,33 @@
+Assignment 2
+
+1. Which of the following are real constants?
+
+        3, ‘A’, 4.5, 3.0, ‘+’, -25, -0.0
+
+2. Which of the following are not keywords in C Language?
+
+      auto, dynamic, static, typedef, define, enum, is, default, this, super
+
+3. Which of the following is not a valid variable name in C language?
+4. Can we make a variable with the name switch? (Yes or No)
+5. Keywords are defined in the compiler or their meaning is stored in the library?
+6. Where variables are created? (RAM, ROM, Secondary Storage or CPU)
+7. Who developed C Language?
+8. When was the C language developed?
+9. What is the name of the operating system which is responsible for the inception of the C language?
+10. Whether C language is a high level or low level programming language?
+
+Answers of the assignment :
+
+Ans.1 :- 4.5,3.0,-0.0 are real constants.
+Ans.2 :- dynamic, define, is, this, super are not keywords in C language.
+Ans.3 :- A valid variable name always begins with an alphabet or underscore(_). A variable name is a combination of 1 to 31 alphabets, digits, or underscores. Commas, blanks or special
+	   symbol other then underscore are allowed.
+Ans.4 :- NO.
+Ans.5 :- Keywords are pre-defined in the compiler.
+Ans.6 :- RAM.
+Ans.7 :- C language was developed by Dennis Ritchie in 1972 at AT & T's bell laboratories of USA.
+Ans.8 :- C language was developed in 1972 after the languages BCPL and B.
+Ans.9 :- UNIX
+Ans.10 :- C language can be treated as both high level as well as low level programming language since we can code harware independently or can code with very closely interecting with
+ 	    the hardware devices without compromising the performance.
